@@ -1,7 +1,11 @@
 <h1 align="center">Hey 👋, I'm Tamilarasan</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • UI/UX Designer</strong>
+  <strong>Full-Stack Developer • Java Developer • UI/UX Designer</strong>
+</p>
+
+<p align="center">
+  Building + Learning + Coding + Shipping 🚀
 </p>
 
 <p align="center">
@@ -9,20 +13,25 @@
   <img src="https://img.shields.io/github/followers/Tamil5710?label=Followers&style=flat" alt="Followers" />
 </p>
 
+---
+
+## 👨‍💻 About Me
+
 <p align="center">
-  📍 Tamil Nadu, India &nbsp; • &nbsp;
-  🎓 BE-CSE — Jai Shriram College of Engineering
+I'm a developer focused on Java and full-stack development, with an interest in building practical software projects and continuously improving my problem-solving skills.
 </p>
 
 <p align="center">
-  <strong>Building + Learning + Coding + Shipping</strong>
+Java • React • Node.js • MongoDB • MySQL • Data Structures & Algorithms
 </p>
+
+---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=java,js,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&perline=7"
+    src="https://skillicons.dev/icons?i=java,javascript,html,css,react,vite,tailwind,nodejs,express,mongodb,mysql,git,github,vscode&perline=14&size=10"
     alt="Tech Stack"
   />
 </p>
@@ -54,6 +63,10 @@
   </tr>
 </table>
 
+---
+
+<h2 align="center">💻 Top Languages</h2>
+
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil5710&layout=compact&theme=tokyonight&hide_border=true"
@@ -75,195 +88,208 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">📌 GitHub Overview</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake-dark.svg"
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tamil5710&theme=tokyonight"
+    alt="GitHub Overview"
   />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg"
-/>
-
-<img
- alt="GitHub Contribution Snake"
- src="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg"
- width="100%"
-/> </picture>
-
----
-
-<h2 align="center">🚀 Areas I Work On</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-0e75b6?style=for-the-badge" alt="Full Stack Development" />
-  <img src="https://img.shields.io/badge/Java%20Programming-orange?style=for-the-badge" alt="UI/UX-Design" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge" alt="DSA" />
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Development" />
-  <img src="https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Management" />
-</p>
-
----
-
-<h2 align="center">💻 Featured Projects</h2>
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="50%" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tamil5710&theme=tokyonight"
+        alt="Languages by Repository"
+        width="100%"
+      />
+    </td>
 
-### 🧺 Laundry Management App
-
-A software project focused on managing laundry-related operations and workflows.
-
-**Focus:** Full-Stack Development
-
-**Technologies:**
-React • Node.js • MongoDB
-
-> GitHub: `Coming Soon`
-
+```
+<td width="50%" align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tamil5710&theme=tokyonight"
+    alt="Languages by Commit"
+    width="100%"
+  />
 </td>
+```
 
-<td width="50%" valign="top">
-
-### 🎓 Student Information & Management System
-
-A system designed to manage student-related information and academic data.
-
-**Focus:** Software Development • Database Management
-
-**Technologies:**
-Java • MySQL
-
-> GitHub: `Coming Soon`
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 🏛️ Smart Governance Complaint System
-
-A web application designed around submitting and managing governance-related complaints.
-
-**Focus:** Full-Stack Development
-
-**Technologies:**
-React • Node.js • MongoDB
-
-> GitHub: `Coming Soon`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📝 Online Examination System
-
-An online examination platform with separate student and administration workflows.
-
-**Focus:** Web Application Development
-
-**Technologies:**
-React • Node.js • MongoDB
-
-> GitHub: `Coming Soon`
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 📱 Social Media Dashboard
-
-A dashboard interface for displaying social media activity and analytics.
-
-**Focus:** React Development • UI Design
-
-**Technologies:**
-React • JavaScript • CSS
-
-> GitHub: `Coming Soon`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🍔 Food Delivery Web Application
-
-A food delivery web application inspired by modern food-ordering platforms.
-
-**Focus:** Full-Stack Web Development
-
-**Technologies:**
-React • Node.js • MongoDB
-
-> GitHub: `Coming Soon`
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 🎟️ Ticket Booking Website
-
-A web-based ticket booking project focused on creating a simple booking experience.
-
-**Focus:** Web Development
-
-**Technologies:**
-HTML • CSS • JavaScript
-
-> GitHub: `Coming Soon`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏫 College Admission Management System
-
-A web application for handling college admission-related information and workflows.
-
-**Focus:** Web Development • Database Management
-
-**Technologies:**
-HTML • CSS • JavaScript • MongoDB
-
-> GitHub: `Coming Soon`
-
-</td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">📚 Currently Learning</h2>
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center">
+
+### 🧺 Laundry Management App
+
+A web application for managing laundry-related operations and workflows.
+
+**Focus:** Full-Stack Development
+
+```
+</td>
+
+<td width="50%" align="center">
+```
+
+### 🎓 Student Information & Management System
+
+A system designed to manage student, program, degree, course, and academic information.
+
+**Focus:** Software Development & Database Management
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+
+### 🏛️ Smart Governance Complaint System
+
+A platform for submitting and managing public complaints through a digital workflow.
+
+**Focus:** React & Full-Stack Development
+
+```
+</td>
+
+<td width="50%" align="center">
+```
+
+### 📝 Online Examination System
+
+An examination platform with student and administrator workflows.
+
+**Focus:** React & Application Development
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+
+### 📱 Social Media Dashboard
+
+A dashboard interface for monitoring social media activity and content.
+
+**Focus:** React & UI Development
+
+```
+</td>
+
+<td width="50%" align="center">
+```
+
+### 🍔 Food Delivery Web Application
+
+A food-delivery application inspired by modern food ordering platforms.
+
+**Focus:** Full-Stack Web Development
+
+```
+</td>
+```
+
+  </tr>
+
+  <tr>
+    <td width="50%" align="center">
+
+### 🎟️ Ticket Booking Website
+
+A web application for managing ticket booking workflows.
+
+**Focus:** Web Development
+
+```
+</td>
+
+<td width="50%" align="center">
+```
+
+### 🎓 College Admission Management System
+
+A digital admission workflow for managing student application information.
+
+**Focus:** Web Development & Database Management
+
+```
+</td>
+```
+
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
-  Java • Data Structures & Algorithms • React • Node.js • MongoDB • MySQL
-</p>
-
-<p align="center">
-  <strong>Learning. Building. Solving. Shipping.</strong>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
 
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+  <!-- Replace these placeholders with your real URLs -->
+
+  <a href="[LINKEDIN_URL]">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ 
+
+  <a href="[INSTAGRAM_URL]">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+
+ 
+
+  <a href="[FACEBOOK_URL]">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+ 
+
+  <a href="mailto:[EMAIL]">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+ 
+
+  <a href="[PORTFOLIO_URL]">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+
+</p>
 
 ---
 
 <p align="center">
-  <i>Thanks for visiting my profile!</i>
+  <i>Building • Learning • Coding • Shipping</i>
 </p>
 
 <p align="center">
-  ⭐ Feel free to explore my repositories and projects.
+  ⭐ Thanks for visiting my profile!
 </p>
