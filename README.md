@@ -1,31 +1,60 @@
-Build my complete animated GitHub profile — including a premium animated banner, GitHub statistics cards, contribution snake, and social badges.
+# GitHub Profile — Premium Animated Developer Portfolio
 
-Work through the four phases below in order. After completing each phase, show me the result and wait for my feedback before moving to the next phase. Do not generate multiple variations at once.
+You are a senior GitHub profile designer, SVG animation engineer, frontend developer, and GitHub automation expert.
 
-MY PROFILE DETAILS
+I want you to design and build my complete GitHub profile repository:
 
-Name: Tamilarasan
-GitHub username: Tamil5710
-Profile repository: Tamil5710/tamil5710
-Branch: main
+**Repository:** `Tamil5710/tamil5710`
+**Branch:** `main`
 
-Role: Full-Stack Developer / Java Developer / UI\UX - Design
-Location: [Tamil Nadu / India]
-Education: [BE-CSE / Jai Shriram College Engineering]
+Work through the project in **4 phases**.
 
-Status:
-Building + Learning + Coding + Shipping
+## CRITICAL WORKFLOW RULE
 
-Tech Stack
+Complete **only one phase at a time**.
 
-Languages:
+After finishing each phase:
+
+1. Show me exactly what was created/changed.
+2. Explain how I can test it.
+3. Wait for my feedback.
+4. Do NOT start the next phase until I explicitly approve it.
+5. Do NOT generate multiple design variations unless I request them.
+6. If I reject the same design twice, stop and ask for my direction instead of generating another variation.
+
+---
+
+# MY PROFILE
+
+**Name:** Tamilarasan
+**GitHub:** `Tamil5710`
+**Repository:** `Tamil5710/tamil5710`
+**Branch:** `main`
+
+**Role:**
+Full-Stack Developer / Java Developer / UI/UX Designer
+
+**Location:** Tamil Nadu, India
+
+**Education:**
+BE-CSE — Jai Shriram College of Engineering
+
+**Status:**
+
+> Building + Learning + Coding + Shipping
+
+---
+
+# TECHNOLOGY STACK
+
+### Languages
 
 * Java
 * JavaScript
 * HTML
 * CSS
 
-Frontend:
+### Frontend
 
 * React.js
 * Vite
@@ -33,24 +62,26 @@ Frontend:
 * HTML5
 * CSS3
 
-Backend:
+### Backend
 
 * Node.js
 * Express.js
 
-Database:
+### Database
 
 * MongoDB
 * MySQL
 
-Tools:
+### Tools
 
 * VS Code
 * Git
 * GitHub
 * npm
 
-Areas I Work On
+---
+
+# AREAS OF WORK
 
 * Full-Stack Web Development
 * Java Programming
@@ -61,140 +92,244 @@ Areas I Work On
 * Software Projects
 * Problem Solving
 
-Projects to Highlight
+---
 
-Use my real projects where appropriate, especially:
+# PROJECTS
 
-* Laundry Management App
-* Student Information and Management System
-* Smart Governance Complaint System
-* Online Examination System
-* Social Media Dashboard
-* Food Delivery / Zomato-inspired web application
-* Ticket Booking Website
-* College Admission Management System
+Use only the projects I have actually provided.
 
-Do not invent technologies, achievements, certifications, or statistics that I have not provided.
+Highlight these projects where appropriate:
 
-Social Links
+1. Laundry Management App
+2. Student Information and Management System
+3. Smart Governance Complaint System
+4. Online Examination System
+5. Social Media Dashboard
+6. Food Delivery / Zomato-inspired Web Application
+7. Ticket Booking Website
+8. College Admission Management System
 
-LinkedIn: [LINKEDIN_URL]
-Instagram: [INSTAGRAM_URL]
-Facebook: [FACEBOOK_URL]
-Email: [EMAIL]
-Portfolio: [PORTFOLIO_URL]
+Do NOT invent:
 
-Logo Morph Sequence
+* Technologies
+* Achievements
+* Certifications
+* GitHub stars
+* Contribution numbers
+* Experience
+* Project URLs
+* Live demo URLs
 
-Use three developer-related logos/icons that represent my technology stack.
+If a URL has not been provided, use a clearly marked placeholder internally and do not pretend it is a real URL.
 
-Preferred sequence:
+---
+
+# SOCIAL LINKS
+
+The following values are currently unavailable:
+
+* LinkedIn: `[LINKEDIN_URL]`
+* Instagram: `[INSTAGRAM_URL]`
+* Facebook: `[FACEBOOK_URL]`
+* Email: `[EMAIL]`
+* Portfolio: `[PORTFOLIO_URL]`
+
+Do not invent these URLs.
+
+Before the final README is assembled, ask me for the missing URLs if they are still unavailable.
+
+---
+
+# DESIGN DIRECTION
+
+Create a premium developer aesthetic.
+
+Style:
+
+* Futuristic
+* Minimal
+* Technical
+* Professional
+* Clean
+* High-end
+* Developer-focused
+
+Avoid:
+
+* Excessive neon
+* Cyberpunk overload
+* Glitch effects
+* CRT effects
+* Scanlines
+* Excessive emojis
+* Visual clutter
+* Generic template appearance
+
+The design should feel like a **premium software engineer portfolio**, not a gaming profile.
+
+---
+
+# PHASE 1 — PREMIUM ANIMATED GITHUB BANNER
+
+Create:
+
+```text
+dark.svg
+light.svg
+```
+
+Canvas:
+
+```text
+1180 × 610
+```
+
+The banner should look like a futuristic developer terminal window titled:
+
+```text
+profile.sh –live
+```
+
+## Layout
+
+Approximately:
+
+* 38% left → portrait
+* 62% right → system information
+
+Left section:
+
+```text
+VISUAL.MAP
+```
+
+Right section:
+
+```text
+SYSTEM.INFO
+```
+
+Include:
+
+* Dotted leaders
+* Pulsing LIVE indicator
+* Colored username pill
+* Clean terminal-style interface
+
+---
+
+# PORTRAIT
+
+Use my attached photograph.
+
+If the photograph is not available in the current workspace, STOP and ask me to upload it.
+
+Do not create a fake portrait.
+
+Requirements:
+
+* Head-and-shoulders crop
+* Not an overly tight face crop
+* Recognizable facial features
+* High-quality dot/dither portrait
+* Approximately 300 × 340 processing grid
+* 1-bit Floyd-Steinberg dithering
+* Serpentine processing
+* Moderate contrast enhancement
+* SVG path runs for dots
+* `shape-rendering="crispEdges"`
+
+Do NOT use:
+
+* ASCII characters
+* Font glyphs
+* Scanlines
+* CRT effects
+* Glitch bars
+* Unnecessary grid lines
+
+Use one portrait hue.
+
+Create tonal variation using dot density rather than multiple portrait colours.
+
+The portrait colour must remain visually distinct from the main UI accent.
+
+For dark mode:
+
+* Remove unnecessary photograph background
+* Keep the subject clearly visible
+
+For light mode:
+
+* Preserve the background appropriately
+
+---
+
+# PORTRAIT ANIMATION
+
+The portrait must not appear using a simple left-to-right wipe.
+
+Instead:
+
+1. Start with scattered dots.
+2. Distribute the dots throughout the complete portrait area.
+3. Gradually increase the density.
+4. Form the recognizable portrait through simultaneous shimmering dot formation.
+5. Keep the animation smooth and controlled.
+
+The formation should feel like the portrait is being reconstructed from data.
+
+After the portrait becomes established, transition selected travelling dots through:
+
+```text
+Java → React → Node.js
+```
+
+---
+
+# LOGO MORPH
+
+Use three technology identities:
 
 1. Java
 2. React
 3. Node.js
 
-If official logo reference images are attached, use those references and trace/reproduce them accurately rather than hand-drawing approximate logos.
+Use official logo references when available.
 
-⸻
+If official logo images are attached, use those references and reproduce them accurately.
 
-PHASE 1 — ANIMATED GITHUB BANNER
+Do not create inaccurate hand-drawn approximations.
 
-Create two versions:
+Use two independent visual layers:
 
-* dark.svg
-* light.svg
+### Layer 1 — Dense Portrait
 
-Canvas:
+Responsible for:
 
-1180 × 610
+* Facial detail
+* Recognition
+* Portrait quality
 
-Design the banner as a futuristic developer terminal window titled:
+### Layer 2 — Travelling Dots
 
-profile.sh –live
+Responsible for:
 
-The left approximately 38% of the banner should contain my portrait.
+* Logo transitions
+* Java → React → Node.js morph
+* Motion
 
-Label the portrait:
+Avoid turning the portrait into a blocky square-grid transition.
 
-VISUAL.MAP
+Introduce controlled randomness/noise to avoid obvious geometric grouping.
 
-The right side should contain a SYSTEM.INFO panel with dotted leaders, a pulsing LIVE indicator, and a colored username pill.
+---
 
-Portrait
+# SYSTEM.INFO
 
-Use my attached photograph.
+Include exactly these fields:
 
-Requirements:
-
-* Head-and-shoulders crop
-* Do not use an overly tight face crop
-* Convert the portrait into a high-quality dot/dither portrait
-* Use approximately a 300 × 340 grid
-* Use 1-bit Floyd-Steinberg dithering
-* Use serpentine processing
-* Apply only moderate contrast enhancement
-* Preserve recognizable facial features
-* Use SVG path runs for dots
-* Use crispEdges rendering
-* Do not use ASCII characters or font glyphs for the portrait
-* Do not add scanlines
-* Do not add CRT effects
-* Do not add glitch bars
-* Do not add unnecessary grid lines
-
-For dark mode, remove the background so the portrait subject remains visible.
-
-For light mode, preserve the background appropriately.
-
-Use one portrait hue and create tonal variation through dot density.
-
-The portrait must remain visually distinct from the UI accent colour.
-
-Animation
-
-Create a smooth intro animation where the portrait gradually appears through scattered groups of dots.
-
-Do NOT use a simple left-to-right wipe.
-
-The dots should appear across the entire portrait simultaneously, creating a shimmering formation effect.
-
-After the portrait is established, animate the dots toward the three technology logos:
-
-Java → React → Node.js
-
-Use two independent layers:
-
-1. Dense portrait layer
-2. Sparse travelling-dot layer
-
-The dense portrait should preserve facial quality.
-
-The travelling dots should handle the logo morphing.
-
-Avoid creating a blocky square-grid transition.
-
-Add controlled randomness/noise to prevent visible geometric grouping.
-
-The animation should feel:
-
-* futuristic
-* technical
-* premium
-* minimal
-* developer-focused
-
-Avoid:
-
-* excessive neon
-* cyberpunk overload
-* glitch effects
-* visual clutter
-
-SYSTEM.INFO
-
-Include these rows:
-
+```text
 Subject
 Role
 Origin
@@ -211,98 +346,249 @@ Grid.Portfolio
 Grid.LinkedIn
 Grid.GitHub
 Grid.Facebook
+```
 
-Keep all values aligned using SVG textLength and lengthAdjust=“spacingAndGlyphs”.
-
-Generate dotted leaders automatically based on the label/value lengths.
-
-⸻
-
-PHASE 2 — GITHUB STATISTICS
-
-Create a self-hosted GitHub statistics setup.
-
-Do not rely only on a public shared GitHub stats instance.
-
-Guide me through:
-
-1. Creating a GitHub classic personal access token
-2. Forking the github-readme-stats repository
-3. Deploying it to Vercel
-4. Adding the PAT_1 environment variable
-5. Deploying the project
-6. Getting the generated Vercel instance URL
-7. Configuring my README with that URL
-
-Use my profile’s visual palette consistently.
-
-Create:
-
-* GitHub streak card
-* GitHub statistics card
-* Top languages card
-
-Place statistics and top languages side-by-side where appropriate.
+Use aligned SVG text.
 
 Use:
 
+```xml
+textLength="..."
+lengthAdjust="spacingAndGlyphs"
+```
+
+where appropriate.
+
+Generate dotted leaders automatically according to label/value lengths.
+
+Do not manually hardcode dozens of dots.
+
+---
+
+# PHASE 1 SOURCE OF TRUTH
+
+Do NOT manually edit the final SVG as the primary workflow.
+
+Create a Python generator that produces the SVG files.
+
+Keep:
+
+```text
+dark.svg
+light.svg
+```
+
+and the generator/source data.
+
+The Python source must remain the source of truth.
+
+If additional source assets are necessary, organize them clearly.
+
+---
+
+# PHASE 1 TECHNICAL QUALITY
+
+Before showing me Phase 1:
+
+Check:
+
+* SVG validity
+* SVG rendering
+* Animation
+* Dark mode
+* Light mode
+* Portrait quality
+* File size
+* Browser rendering
+* GitHub compatibility
+
+If the SVG becomes unnecessarily large, explain the problem and recommend a better implementation.
+
+---
+
+# STOP AFTER PHASE 1
+
+Do NOT begin statistics.
+
+Wait for my approval.
+
+---
+
+# PHASE 2 — SELF-HOSTED GITHUB STATISTICS
+
+After I approve Phase 1, guide me through creating a self-hosted GitHub statistics system.
+
+Do NOT rely only on a public shared GitHub Stats instance.
+
+Use:
+
+```text
+github-readme-stats
+```
+
+Workflow:
+
+1. Create a GitHub classic Personal Access Token.
+2. Fork `github-readme-stats`.
+3. Deploy the fork to Vercel.
+4. Add:
+
+   ```text
+   PAT_1
+   ```
+
+   as the Vercel environment variable.
+5. Deploy.
+6. Obtain the generated Vercel URL.
+7. Configure the README to use that self-hosted URL.
+
+Use my actual username:
+
+```text
+Tamil5710
+```
+
+Do not fabricate statistics.
+
+---
+
+## STATISTICS CARDS
+
+Create:
+
+### GitHub Statistics
+
+Use:
+
+```text
 hide_rank=true
+```
 
-Explain that the GitHub rank is star-weighted and can be misleading for newer accounts.
+### Top Languages
 
-Do not fabricate GitHub statistics.
+Use:
 
-Use the actual GitHub username everywhere.
+```text
+Tamil5710
+```
 
-⸻
+### GitHub Streak
 
-PHASE 3 — CONTRIBUTION SNAKE
+Create a matching streak card.
+
+Place statistics and languages side-by-side when the layout allows.
+
+Use the same visual palette as the banner.
+
+Explain that GitHub rank is star-weighted and can be misleading for newer accounts.
+
+---
+
+# STOP AFTER PHASE 2
+
+Show me the implementation and setup instructions.
+
+Wait for my approval.
+
+Do NOT begin Phase 3 until I approve.
+
+---
+
+# PHASE 3 — CONTRIBUTION SNAKE
 
 Create:
 
+```text
 .github/workflows/snake.yml
+```
 
 Use:
 
+```text
 Platane/snk/svg-only@v3
+```
 
-Configure the workflow to run:
+Workflow triggers:
 
-* Every 12 hours
-* On workflow_dispatch
-* On push to main
+```text
+Every 12 hours
+workflow_dispatch
+push to main
+```
 
 Use:
 
+```yaml
 permissions:
-contents: write
+  contents: write
+```
 
 Generate:
 
-* Light contribution snake SVG
-* Dark contribution snake SVG
+```text
+Light contribution snake SVG
+Dark contribution snake SVG
+```
 
-Use a theme matching my GitHub profile.
+Store generated output in an appropriate branch/location required by the workflow.
 
-For dark mode, make the empty contribution cells visibly different from GitHub’s #0d1117 background.
+---
 
-Use a theme-aware HTML  element so the correct SVG appears in light and dark GitHub themes.
+# SNAKE DESIGN
 
-Tell me to add the snake to the README only after the GitHub Action has successfully completed and the output branch exists.
+Match the existing profile palette.
 
-⸻
+For dark mode:
 
-PHASE 4 — SOCIAL BADGES
+The empty contribution cells must remain visibly distinguishable from:
 
-Create social badges using shields.io.
+```text
+#0d1117
+```
+
+Do not make the empty cells disappear into the background.
+
+Create a theme-aware README implementation using:
+
+```html
+<picture>
+```
+
+so GitHub automatically selects the correct light/dark SVG.
+
+Do NOT tell me to add the snake to the README until the GitHub Action has successfully completed and the generated output exists.
+
+---
+
+# STOP AFTER PHASE 3
+
+Show:
+
+* Workflow file
+* README snippet
+* Expected generated files
+* How to run workflow manually
+* How to verify the Action
+
+Wait for approval.
+
+---
+
+# PHASE 4 — SOCIAL BADGES
+
+Use:
+
+```text
+shields.io
+```
 
 Style:
 
+```text
 for-the-badge
+```
 
-Use the profile background/theme consistently.
-
-Include clickable badges for:
+Create clickable badges for:
 
 * LinkedIn
 * Instagram
@@ -310,43 +596,53 @@ Include clickable badges for:
 * Gmail
 * Portfolio
 
-Place:
+Do NOT create a GitHub badge.
 
-  
+GitHub is already the current profile.
 
-between badges.
+Use:
 
-Do not create a GitHub badge because this is already my GitHub profile.
+```text
+&nbsp;
+```
 
-For LinkedIn, make sure the logo remains visible. If the custom colour causes the LinkedIn logo to disappear, use LinkedIn’s brand blue or another technically reliable approach.
+between badges where appropriate to create controlled spacing.
 
-⸻
+For LinkedIn:
 
-FINAL ASSEMBLY
+Make sure the LinkedIn logo remains visible.
 
-After all four phases are approved, create my complete README.md.
+If custom colours cause the logo to disappear, use LinkedIn's brand blue or another technically reliable configuration.
 
-The README structure must be:
+Do not invent missing social URLs.
 
-1. Animated banner
-2. Short developer introduction
-3. Tech stack
-4. GitHub statistics
-5. Contribution snake
+---
+
+# FINAL ASSEMBLY
+
+Only after all four phases are approved, create:
+
+```text
+README.md
+```
+
+Final structure:
+
+```text
+1. Animated Banner
+2. Developer Introduction
+3. Tech Stack
+4. GitHub Statistics
+5. Contribution Snake
 6. Projects
-7. Social/contact badges
+7. Social / Contact Badges
+```
 
-Use a clean, modern developer aesthetic.
+---
 
-Keep the README professional rather than overloaded with emojis.
+# DEVELOPER INTRODUCTION
 
-Use my real username everywhere.
-
-Do not leave accidental placeholder values in the final README.
-
-Developer Introduction
-
-Create a concise introduction that communicates that I am a developer focused on:
+Write a concise professional introduction explaining that I focus on:
 
 * Java
 * Full-stack development
@@ -357,12 +653,17 @@ Create a concise introduction that communicates that I am a developer focused on
 * Data Structures & Algorithms
 * Continuous learning
 
-Do not exaggerate my experience or claim technologies I have not actually used.
+Do not exaggerate my experience.
 
-Tech Stack Section
+Do not claim technologies I have not provided.
 
-Create attractive technology badges/icons for:
+---
 
+# TECH STACK
+
+Create attractive badges/icons for:
+
+```text
 Java
 JavaScript
 HTML5
@@ -377,61 +678,187 @@ MySQL
 Git
 GitHub
 VS Code
+```
 
-Projects Section
+Keep the section clean.
 
-Create clean project cards or sections for my major projects.
+Avoid excessive badge clutter.
 
-For each project include:
+---
+
+# PROJECT SECTION
+
+Create clean project cards/sections.
+
+For each project show:
 
 * Project name
 * Short description
 * Main technologies
-* GitHub link placeholder
-* Live demo placeholder where applicable
+* GitHub link
+* Live demo where applicable
 
-Do not invent URLs.
+Only use real URLs supplied by me.
 
-Quality Rules
+Do not invent repository URLs.
 
-Verify everything technically instead of relying only on visual appearance.
+Do not invent demo URLs.
 
-If something will not work, tell me before implementing it.
+If URLs are missing, ask me for them before final assembly.
 
-If a proposed approach creates unnecessary file size, complexity, or maintenance problems, explain the tradeoff and recommend the better approach.
+---
 
-Keep the generator Python script and any source data used to create the animated portrait.
+# FINAL QUALITY CHECK
 
-The source files should remain the source of truth rather than manually editing the final SVG.
+Before declaring the project complete, verify:
 
-Test the final README in a browser/GitHub-like environment.
+### GitHub
+
+* Repository structure
+* Correct branch
+* Correct username
+* README rendering
+
+### SVG
+
+* dark.svg works
+* light.svg works
+* SVG animation works
+* SVG is valid
+* GitHub supports the implementation
+* File size is reasonable
+
+### Responsive Design
 
 Check:
 
-* Dark mode
-* Light mode
-* Mobile responsiveness
-* SVG rendering
-* Animation
-* Badge links
-* GitHub statistics
-* Contribution snake
-* Image loading
-* Broken URLs
-* README layout
+* Desktop
+* Tablet
+* Mobile
 
-Be honest about limitations and file sizes.
+### Theme
 
-Do not repeatedly generate alternatives if I reject the same idea twice. Stop and ask for my direction.
+Check:
 
-FINAL OUTPUT
+* GitHub dark mode
+* GitHub light mode
 
-When everything is complete, provide:
+### Statistics
 
-1. Complete README.md
-2. dark.svg
-3. light.svg
-4. .github/workflows/snake.yml
-5. Any required Python generator script
-6. Exact GitHub/Vercel setup instructions
-7. A short manual checklist of what I need to do myself
+Check:
+
+* Username
+* Self-hosted URL
+* Cards load
+* No fabricated numbers
+
+### Snake
+
+Check:
+
+* Workflow syntax
+* Permissions
+* Scheduled execution
+* Manual execution
+* Generated output
+* Light/dark rendering
+
+### Badges
+
+Check:
+
+* Badge URLs
+* Logos
+* Click targets
+* Gmail mailto behavior
+* Portfolio link
+* LinkedIn visibility
+
+### README
+
+Check:
+
+* Broken images
+* Broken links
+* Layout
+* Spacing
+* Markdown syntax
+* Theme compatibility
+
+---
+
+# HONESTY / ENGINEERING RULES
+
+Do not pretend something works if it has not been verified.
+
+If a GitHub limitation prevents an animation or feature from working reliably, explain it before implementing it.
+
+If GitHub sanitizes or restricts an SVG feature, tell me.
+
+If an animated SVG is too large, explain the tradeoff.
+
+If the proposed portrait implementation creates excessive file size, recommend a more efficient solution.
+
+Prefer:
+
+* Maintainability
+* Small file size
+* GitHub compatibility
+* Reliable rendering
+* Clean source code
+
+over unnecessary visual complexity.
+
+---
+
+# FINAL FILES
+
+When the entire project is approved, provide:
+
+```text
+README.md
+dark.svg
+light.svg
+.github/workflows/snake.yml
+Python portrait/SVG generator
+Required source assets/data
+```
+
+Also provide:
+
+1. Exact GitHub setup instructions
+2. Exact Vercel setup instructions
+3. GitHub PAT setup instructions
+4. Snake Action setup instructions
+5. Manual checklist of actions I must perform
+6. Any limitations or known GitHub restrictions
+
+---
+
+# IMPORTANT
+
+Use my real GitHub username everywhere:
+
+```text
+Tamil5710
+```
+
+Do not replace it with:
+
+```text
+username
+github-user
+yourusername
+```
+
+Do not invent personal information.
+
+Do not invent statistics.
+
+Do not invent achievements.
+
+Do not invent social URLs.
+
+Do not proceed to another phase without my approval.
+
+Start with **PHASE 1 ONLY**.
