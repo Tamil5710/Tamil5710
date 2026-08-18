@@ -160,8 +160,8 @@ An examination platform with student and administrator workflows.
 
   <tr>
     <td width="50%" align="center">
----
-### 📱 Social Media Dashboard
+
+      📱 Social Media Dashboard
 
 A dashboard interface for monitoring social media activity and content.
 
@@ -181,8 +181,8 @@ A food-delivery application inspired by modern food ordering platforms.
 
   <tr>
     <td width="50%" align="center">
----
-### 🎟️ Ticket Booking Website
+
+      🎟️ Ticket Booking Website
 
 A web application for managing ticket booking workflows.
 
