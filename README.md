@@ -125,7 +125,7 @@ A web application for managing laundry-related operations and workflows.
 
 **Focus:** Full-Stack Development
 
------
+---
 ### 🎓 Student Information & Management System
 
 A system designed to manage student, program, degree, course, and academic information.
@@ -139,14 +139,14 @@ A system designed to manage student, program, degree, course, and academic infor
   <tr>
     <td width="50%" align="center">
 
-------
+---
 ### 🏛️ Smart Governance Complaint System
 
 A platform for submitting and managing public complaints through a digital workflow.
 
 **Focus:** React & Full-Stack Development
 
------
+---
 
 ### 📝 Online Examination System
 
@@ -160,14 +160,14 @@ An examination platform with student and administrator workflows.
 
   <tr>
     <td width="50%" align="center">
-------
+---
 ### 📱 Social Media Dashboard
 
 A dashboard interface for monitoring social media activity and content.
 
 **Focus:** React & UI Development
 
-------
+---
 
 ### 🍔 Food Delivery Web Application
 
@@ -181,14 +181,14 @@ A food-delivery application inspired by modern food ordering platforms.
 
   <tr>
     <td width="50%" align="center">
--------
+---
 ### 🎟️ Ticket Booking Website
 
 A web application for managing ticket booking workflows.
 
 **Focus:** Web Development
 
--------
+---
 
 ### 🎓 College Admission Management System
 
