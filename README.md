@@ -54,18 +54,6 @@
   </tr>
 </table>
 
----
-
-<h2 align="center">💻 Top Languages</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamil5710&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
 
 <h2 align="center">📈 Contribution Activity</h2>
 
