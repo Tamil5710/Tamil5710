@@ -27,44 +27,6 @@
   />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="./profile/stats.svg"
-        alt="GitHub Statistics"
-        width="100%"
-      />
-    </td>
-
-    <td width="50%" align="center">
-      <img
-        src="./profile/top-langs.svg"
-        alt="Top Languages"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
-
-```
-<td width="50%" align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Tamil5710&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-    width="100%"
-  />
-</td>
-```
-
-  </tr>
-</table>
-
-
 <h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
