@@ -161,7 +161,7 @@ An examination platform with student and administrator workflows.
   <tr>
     <td width="50%" align="center">
 
-      📱 Social Media Dashboard
+  ### 📱 Social Media Dashboard
 
 A dashboard interface for monitoring social media activity and content.
 
@@ -182,7 +182,7 @@ A food-delivery application inspired by modern food ordering platforms.
   <tr>
     <td width="50%" align="center">
 
-      🎟️ Ticket Booking Website
+  ### 🎟️ Ticket Booking Website
 
 A web application for managing ticket booking workflows.
 
@@ -206,9 +206,18 @@ A digital admission workflow for managing student application information.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg"
+    />
   </picture>
 </p>
 
