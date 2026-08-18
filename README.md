@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tamilarasan</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Java Developer • UI/UX Designer</strong>
+  <strong>Full-Stack Developer • UI/UX Designer</strong>
 </p>
 
 <p align="center">
@@ -17,23 +17,6 @@
 <p align="center">
   <strong>Building + Learning + Coding + Shipping</strong>
 </p>
-
----
-
-<h2 align="center">👨‍💻 About Me</h2>
-
-<p align="center">
-  I'm a developer focused on <strong>Java</strong>, <strong>Full-Stack Development</strong>,
-  <strong>React</strong>, <strong>Node.js</strong>, <strong>MongoDB</strong>,
-  <strong>MySQL</strong>, and <strong>Data Structures & Algorithms</strong>.
-</p>
-
-<p align="center">
-  I enjoy building software projects, solving problems, developing web applications,
-  and continuously improving my development skills.
-</p>
-
----
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -117,13 +100,12 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full--Stack%20Development-0e75b6?style=for-the-badge" alt="Full Stack Development" />
-  <img src="https://img.shields.io/badge/Java%20Programming-orange?style=for-the-badge" alt="Java Programming" />
+  <img src="https://img.shields.io/badge/Java%20Programming-orange?style=for-the-badge" alt="UI/UX-Design" />
   <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-purple?style=for-the-badge" alt="DSA" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React%20Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Development" />
-  <img src="https://img.shields.io/badge/Backend%20Development-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Development" />
   <img src="https://img.shields.io/badge/Database%20Management-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Management" />
 </p>
 
@@ -275,50 +257,6 @@ HTML • CSS • JavaScript • MongoDB
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="[LINKEDIN_URL]">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-&nbsp;
-
-<a href="[INSTAGRAM_URL]">
-  <img
-    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    alt="Instagram"
-  />
-</a>
-&nbsp;
-
-<a href="[FACEBOOK_URL]">
-  <img
-    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
-    alt="Facebook"
-  />
-</a>
-&nbsp;
-
-<a href="mailto:[EMAIL]">
-  <img
-    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Gmail"
-  />
-</a>
-&nbsp;
-
-<a href="[PORTFOLIO_URL]">
-  <img
-    src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white"
-    alt="Portfolio"
-  />
-</a>
-
-</p>
 
 ---
 
