@@ -171,4 +171,5 @@ A digital admission workflow for managing student application information.
 
 
 please visit this https://mahat-labs-website--tamilarasan5710.replit.app
+https://business-website-dev-yokj.bolt.host
  this ok but u can add new design in this code
