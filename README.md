@@ -35,11 +35,21 @@
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://github-readme-stats.vercel.app/api?username=Tamil5710&show_icons=true&include_all_commits=true&hide_rank=true&theme=tokyonight&hide_border=true"
-        alt="GitHub Stats"
+        src="./profile/stats.svg"
+        alt="GitHub Statistics"
         width="100%"
       />
     </td>
+
+    <td width="50%" align="center">
+      <img
+        src="./profile/top-langs.svg"
+        alt="Top Languages"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ```
 <td width="50%" align="center">
