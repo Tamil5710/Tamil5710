@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tamilarasan</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • Java Developer • UI/UX Designer</strong>
+  <strong>Full-Stack Developer  • UI/UX Designer</strong>
 </p>
 
 <p align="center">
@@ -15,15 +15,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-<p align="center">
-I'm a developer focused on Java and full-stack development, with an interest in building practical software projects and continuously improving my problem-solving skills.
-</p>
-
-<p align="center">
-Java • React • Node.js • MongoDB • MySQL • Data Structures & Algorithms
-</p>
 
 ---
 
@@ -134,11 +125,6 @@ A web application for managing laundry-related operations and workflows.
 
 **Focus:** Full-Stack Development
 
-```
-</td>
-
-<td width="50%" align="center">
-```
 
 ### 🎓 Student Information & Management System
 
@@ -146,9 +132,7 @@ A system designed to manage student, program, degree, course, and academic infor
 
 **Focus:** Software Development & Database Management
 
-```
-</td>
-```
+
 
   </tr>
 
@@ -161,11 +145,7 @@ A platform for submitting and managing public complaints through a digital workf
 
 **Focus:** React & Full-Stack Development
 
-```
-</td>
 
-<td width="50%" align="center">
-```
 
 ### 📝 Online Examination System
 
@@ -173,9 +153,7 @@ An examination platform with student and administrator workflows.
 
 **Focus:** React & Application Development
 
-```
-</td>
-```
+
 
   </tr>
 
@@ -188,11 +166,7 @@ A dashboard interface for monitoring social media activity and content.
 
 **Focus:** React & UI Development
 
-```
-</td>
 
-<td width="50%" align="center">
-```
 
 ### 🍔 Food Delivery Web Application
 
@@ -200,9 +174,7 @@ A food-delivery application inspired by modern food ordering platforms.
 
 **Focus:** Full-Stack Web Development
 
-```
-</td>
-```
+
 
   </tr>
 
@@ -215,11 +187,7 @@ A web application for managing ticket booking workflows.
 
 **Focus:** Web Development
 
-```
-</td>
 
-<td width="50%" align="center">
-```
 
 ### 🎓 College Admission Management System
 
@@ -227,9 +195,6 @@ A digital admission workflow for managing student application information.
 
 **Focus:** Web Development & Database Management
 
-```
-</td>
-```
 
   </tr>
 </table>
@@ -244,44 +209,6 @@ A digital admission workflow for managing student application information.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Tamil5710/Tamil5710/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-  <!-- Replace these placeholders with your real URLs -->
-
-  <a href="[LINKEDIN_URL]">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
- 
-
-  <a href="[INSTAGRAM_URL]">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-
- 
-
-  <a href="[FACEBOOK_URL]">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-
- 
-
-  <a href="mailto:[EMAIL]">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-
- 
-
-  <a href="[PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-
 </p>
 
 ---
