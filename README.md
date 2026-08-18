@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Tamilarasan</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer • UI/UX Designer</strong>
+  <strong>Full-Stack Developer  • UI/UX Designer</strong>
 </p>
 
 <p align="center">
@@ -15,6 +15,9 @@
 
 ---
 
+
+---
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -23,8 +26,6 @@
     alt="Tech Stack"
   />
 </p>
-
----
 
 <h2 align="center">📈 Contribution Activity</h2>
 
@@ -76,7 +77,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center">
 
 ### 🧺 Laundry Management App
 
@@ -84,38 +85,28 @@ A web application for managing laundry-related operations and workflows.
 
 **Focus:** Full-Stack Development
 
-```
-</td>
-
-<td width="50%" valign="top" align="center">
-```
-
+---
 ### 🎓 Student Information & Management System
 
 A system designed to manage student, program, degree, course, and academic information.
 
 **Focus:** Software Development & Database Management
 
-```
-</td>
-```
+
 
   </tr>
 
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center">
 
+---
 ### 🏛️ Smart Governance Complaint System
 
 A platform for submitting and managing public complaints through a digital workflow.
 
 **Focus:** React & Full-Stack Development
 
-```
-</td>
-
-<td width="50%" valign="top" align="center">
-```
+---
 
 ### 📝 Online Examination System
 
@@ -123,26 +114,20 @@ An examination platform with student and administrator workflows.
 
 **Focus:** React & Application Development
 
-```
-</td>
-```
+
 
   </tr>
 
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center">
 
-### 📱 Social Media Dashboard
+  ### 📱 Social Media Dashboard
 
 A dashboard interface for monitoring social media activity and content.
 
 **Focus:** React & UI Development
 
-```
-</td>
-
-<td width="50%" valign="top" align="center">
-```
+---
 
 ### 🍔 Food Delivery Web Application
 
@@ -150,26 +135,20 @@ A food-delivery application inspired by modern food ordering platforms.
 
 **Focus:** Full-Stack Web Development
 
-```
-</td>
-```
+
 
   </tr>
 
   <tr>
-    <td width="50%" valign="top" align="center">
+    <td width="50%" align="center">
 
-### 🎟️ Ticket Booking Website
+  ### 🎟️ Ticket Booking Website
 
 A web application for managing ticket booking workflows.
 
 **Focus:** Web Development
 
-```
-</td>
-
-<td width="50%" valign="top" align="center">
-```
+---
 
 ### 🎓 College Admission Management System
 
@@ -177,15 +156,11 @@ A digital admission workflow for managing student application information.
 
 **Focus:** Web Development & Database Management
 
-```
-</td>
-```
 
   </tr>
 </table>
 
 ---
-
 <p align="center">
   <i>Building • Learning • Coding • Shipping</i>
 </p>
@@ -193,3 +168,4 @@ A digital admission workflow for managing student application information.
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
+ this ok but u can add new design in this code
